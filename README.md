@@ -3,6 +3,6 @@ a model to quantify ecohydrological risk based on portfolio of natural assets
 
 ## Model
 We propose our model based on following original definition of risk:\
-$$Risk=probability ×F(hazards,exposure,vulnerability)$$</p>
+<p align="center">$$Risk=probability ×F(hazards,exposure,vulnerability)$$</p>
 
 
