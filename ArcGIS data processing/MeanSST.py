@@ -20,4 +20,4 @@ for ras in rasters:
     print os.path.basename(ras).split('_')[0] + ',' + str(meanValue) + '\n'
     OutputFile.write(os.path.basename(ras).split('_')[0] + ',' + str(meanValue) + '\n')
 OutputFile.close()
-print("All project is OK£¡")
+print("All project is OK")
