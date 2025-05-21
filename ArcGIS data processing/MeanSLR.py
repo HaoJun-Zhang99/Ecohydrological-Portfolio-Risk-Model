@@ -12,4 +12,4 @@ for i in range(1952, 2017):
     OutputFile.write('%s'%i + ',' + str(np.mean(sealevel_value)) + '\n')
     print i
 OutputFile.close()
-print("All project is OK£¡")
+print("All project is OK")
