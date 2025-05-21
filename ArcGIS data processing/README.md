@@ -1,5 +1,5 @@
 # Instruction
-The following programs are used for preprocessing data in ArcGIS.\
+The following programs are used for preprocessing data in ArcGIS.
 
 MeanSST.py is used for calculating the mean sea surface temperature of certain ocean area.\
 MeanSLR.py is used for calculating the mean sea level risk of certain ocean area.\
